@@ -1,2 +1,0 @@
-This is the content of my_file.txt
-This is the content of another_file.txt
